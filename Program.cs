@@ -33,7 +33,7 @@ namespace Lesson3HomeWork
             Console.WriteLine("Second big number in User array...------------------------------");
             FindSecondBigNumberInArray(userArray);
             Console.WriteLine("-----------------------------------------------------------------");
-            Console.WriteLine("------------------------END----ARRAY--------Press any key-------------");
+            Console.WriteLine("------------------------END----ARRAY--------Press any key------- ------");
             Console.ReadKey();
 
 
